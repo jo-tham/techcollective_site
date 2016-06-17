@@ -8,7 +8,7 @@ Jinja2==2.8
 Markdown==2.5.2
 MarkupSafe==0.23
 paramiko==1.17.0
-pelican==3.6.4.dev0
+-e git+https://github.com/getpelican/pelican.git@985840178a6565bdb936e2648082981b41b10348#egg=pelican3.6.4.dev0
 pycrypto==2.6.1
 Pygments==2.1.3
 python-dateutil==2.5.3
