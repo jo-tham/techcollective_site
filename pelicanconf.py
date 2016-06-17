@@ -40,6 +40,9 @@ DEFAULT_LANG = u'en'
 MD_EXTENSIONS = ['codehilite(linenums=False,\
                  css_class=highlight,guess_lang=False)']
 
+# Plugins
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['gravatar']
 
 # Theme settings
 THEME = "pelican-themes/pure"
