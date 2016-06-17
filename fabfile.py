@@ -27,6 +27,9 @@ def clean():
 def build():
     local('pelican -s pelicanconf.py')
 
+def test():
+    local('pelican -s pelicanconf.py --fatal errors')
+
 def rebuild():
     clean()
     build()
