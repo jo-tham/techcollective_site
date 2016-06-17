@@ -1,0 +1,3 @@
+[submodule "pelican-themes/pure"]
+	path = pelican-themes/pure
+	url = https://github.com/PurePelicanTheme/pure.git
