@@ -1,5 +1,7 @@
 [![Codeship Status for jo-tham/techcollective_site](https://codeship.com/projects/adbc0860-16e2-0134-793d-3e8c5d75eee7/status?branch=master)](https://codeship.com/projects/158466)
 
+[Add a post](https://github.com/jo-tham/techcollective_site/new/master/content/blog).
+
 # Tech Collective
 
 Tech collective is a public monthly meetup base in Whitehorse. Our theme is
@@ -87,6 +89,10 @@ print(x*y)
 [visible link text](http://actuallink.com/).
 
 ```
+
+Additional markdown syntax is available
+[here](https://guides.github.com/features/mastering-markdown/) and through the
+usual search avenues.
 
 ## Publishing Your Post
 
