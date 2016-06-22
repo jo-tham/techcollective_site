@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 # Site info
-AUTHOR = u'TechCollective'
-SITENAME = u'TechCollective'
+AUTHOR = u'Tech Collective'
+SITENAME = u'Tech Collective'
 SITEURL = ''
 
 
@@ -46,16 +46,11 @@ PLUGINS = ['gravatar']
 
 # Theme settings
 THEME = "pelican-themes/pure"
-TAGLINE = ('TODO')
+TAGLINE = ('Monthly Tech Meetup in Whitehorse, YT')
 
 DISQUS_ON_PAGES = False
 PROFILE_IMG_URL = '/images/favicon.png'
-
-CC_LICENSE = "CC-BY-SA"
-# CC_LICENSE_DERIVATIVES = "yes"
-# CC_LICENSE_COMMERCIAL = "yes"
-# CC_ATTR_MARKUP = true
-
+COVER_IMG_URL = '/images/favicon.png'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
