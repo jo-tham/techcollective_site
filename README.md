@@ -120,7 +120,7 @@ To get started
 
 For your information, the general structure of the toolchain is given below
 
-![Image of Toolchain](https://raw.githubusercontent.com/jo-tham/techcollective_site/readme/content/images/publish.png)
+![Image of Toolchain](https://raw.githubusercontent.com/jo-tham/techcollective_site/readme/content/images/tech-collective-site-toolchain.png)
 
 # Getting Help & Suggesting Improvements
 
