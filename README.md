@@ -16,7 +16,16 @@ This repository contains the source data for the tech-collective.com website.
 It is open, so that members may contribute blog posts and event details.
 
 # Posting
-You can make a blog post or edit an event on tech-collective.com right from GitHub!
+
+You can make a blog post or edit an event on tech-collective.com right from
+GitHub! The key steps are
+
+1. create a post
+2. add post metadata
+3. write the post
+4. submit a pull request from a new branch, name the branch starting with `post/`
+
+Review your post at [draft.tech-collective.com](http://draft.tech-collective.com).
 
 ## Create A Post
 
