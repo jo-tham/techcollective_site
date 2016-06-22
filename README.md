@@ -2,7 +2,7 @@
 
 [Add a post to tech-collective.com](https://github.com/jo-tham/techcollective_site/new/master/content/blog)
 
-# Tech Collective
+# [Tech Collective](http://tech-collective.com)
 
 Tech collective is a public monthly meetup base in Whitehorse. Our theme is
 everyday problems and solutions relating to technology.
