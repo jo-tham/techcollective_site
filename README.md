@@ -1,6 +1,6 @@
 [![Codeship Status for jo-tham/techcollective_site](https://codeship.com/projects/adbc0860-16e2-0134-793d-3e8c5d75eee7/status?branch=master)](https://codeship.com/projects/158466)
 
-[Add a post](https://github.com/jo-tham/techcollective_site/new/master/content/blog).
+[Add a post to tech-collective.com](https://github.com/jo-tham/techcollective_site/new/master/content/blog)
 
 # Tech Collective
 
@@ -99,7 +99,7 @@ usual search avenues.
 Once you've authored your post, commit it as a pull request as shown in the
 image below
 
-![Image of Pull Request](/images/tech-collective-toolchain.png)
+![Image of Pull Request](https://raw.githubusercontent.com/jo-tham/techcollective_site/readme/content/images/publish.png)
 
 # Developing
 
@@ -120,7 +120,7 @@ To get started
 
 For your information, the general structure of the toolchain is given below
 
-![Image of Toolchain](/images/tech-collective-toolchain.png)
+![Image of Toolchain](https://raw.githubusercontent.com/jo-tham/techcollective_site/readme/content/images/publish.png)
 
 # Getting Help & Suggesting Improvements
 
