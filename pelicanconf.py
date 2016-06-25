@@ -49,8 +49,7 @@ THEME = "pelican-themes/pure"
 TAGLINE = ('Monthly Tech Meetup in Whitehorse, YT')
 
 DISQUS_ON_PAGES = False
-PROFILE_IMG_URL = '/images/favicon.png'
-COVER_IMG_URL = '/images/favicon.png'
+COVER_IMG_URL = '/images/sidebar.jpg'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
