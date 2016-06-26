@@ -57,3 +57,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# Links for sidebar
+LINKS = (
+    ('New Post', 'https://github.com/jo-tham/techcollective_site#posting'),
+    ('GitHub', 'https://github.com/jo-tham/techcollective_site'),
+)
