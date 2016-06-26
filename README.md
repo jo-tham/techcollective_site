@@ -4,7 +4,7 @@
 
 # [Tech Collective](http://tech-collective.com)
 
-Tech collective is a public monthly meetup base in Whitehorse. Our theme is
+Tech collective is a public monthly meetup based in Whitehorse. Our theme is
 everyday problems and solutions relating to technology.
 
 Each meeting, one or more attendees present issues they're facing and how
