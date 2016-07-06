@@ -3,7 +3,7 @@ Date: 2016-06-17 10:13
 Slug: july-meeting
 Authors: Jotham Apaloo
 Email: jothamapaloo@gmail.com
-Summary: Dave wrangles databases with python,; debut tech-collective.com; collaborate on a code kata
+Summary: Dave wrangles databases with python; debut tech-collective.com; collaborate on a code kata
 
 The next meeting will take place at:
 
