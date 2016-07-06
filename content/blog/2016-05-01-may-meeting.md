@@ -1,9 +1,9 @@
-Title: June 9 Meeting
-Date: 2016-06-01 00:00
-Slug: june-2016-meeting
+Title: May 12
+Date: 2016-05-01 00:00
+Slug: may-2016-meeting
 Authors: Jotham Apaloo
 Email: jothamapaloo@gmail.com
-Summary: SAAS Showdown: Project Management Apps
+Summary: Land cover classification using remote sensing data and single page apps with Vue.js!
 
 6pm  
 May 12  
