@@ -12,7 +12,7 @@ July 14
 [(co)space](http://cospacenorth.com/)  
 
 - Presentation 1
-    - [Dave](http://yukondude.com/) is talking about some of his work with database administration.
+    - [Dave](http://yukondude.com/) will demo a tool he wrote to automate upsizing databases from MS Access to Oracle. Bring Your Own Caffeine.
 
 - Presentation 2
     - Jotham will quickly describe the setup of tech-collective.com. This will be a short
