@@ -7,9 +7,9 @@ Summary: Dave wrangles databases with python; debut tech-collective.com; collabo
 
 The next meeting will take place at:
 
-6pm  
-July 14  
-[(co)space](http://cospacenorth.com/)  
+6pm
+July 14
+[(co)space](http://cospacenorth.com/)
 
 - Presentation 1
     - [Dave](http://yukondude.com/) will demo a tool he wrote to automate upsizing databases from MS Access to Oracle. Bring Your Own Caffeine.
@@ -18,7 +18,10 @@ July 14
     - Jotham will quickly describe the setup of tech-collective.com. This will be a short
       intro to static site hosting on S3 and codeship.
 
-- Code Kata
+- Presentation 3
+    - [Andrew](https://github.com/anlek) will be presenting on a Smart Login Logic system. We'll talk about how to build a system that prevents users from sharing their login while supporting multiple devices. This talk will need participation from the group as we try to figure this problem out as we go.
+
+- Code Kata [Rescheduled to TBD]
     - We'll be doing a [code kata](https://en.wikipedia.org/wiki/Kata_%28programming%29) during with the remaining time
     - For this kata, details are provided below. Thanks Ben Simpson for bringing this kata to our attention!
 
