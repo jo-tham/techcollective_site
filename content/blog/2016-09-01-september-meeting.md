@@ -7,11 +7,13 @@ Summary: Microsoft and Open Source?!
 
 The next meeting will take place at:
 
+```
 6pm
 September 8
 [(co)space](http://cospacenorth.com/)
+```
 
-Only one presentation is scheduled this month. An additional last minute presenters are invited! 
+Only one presentation is scheduled this month. Additional last minute presenters are invited! Share an app you like and what it takes to be a power user, some code you're working on, or even a rough idea you have that relates to tech!
 [Email Jotham](mailto:jothamapaloo@gmail.com) if you'd like to present.
 
 
@@ -21,4 +23,4 @@ Only one presentation is scheduled this month. An additional last minute present
     The slides are available [here](http://jotham-city.com/powerbi).
     
     
-    Following that there'll be informal discussion about members recent tech activities.
+Following that there'll be informal discussion about members recent tech activities.
