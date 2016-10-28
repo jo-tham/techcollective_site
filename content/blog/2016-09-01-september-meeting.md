@@ -1,4 +1,4 @@
-Title: September Meeting - Cancelled
+Title: Meetup: September 8 - Cancelled
 Date: 2016-09-01 20:00
 Slug: september-2016-meeting
 Authors: Jotham Apaloo
