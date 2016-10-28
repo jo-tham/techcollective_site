@@ -2,14 +2,14 @@ title: ABOUT
 slug: about
 
 # Table of Contents
-[About](#about)
-[Meeting Schedule](#meeting-schedule)
-[Email List](#email-list)
-[Meeting Format](#meeting-format)
-[Attending](#attending)
-[Presenting](#presenting)
-[Contact](#contact)
-[Slack](#slack)
+- [About](#about)
+- [Meeting Schedule](#meeting-schedule)
+- [Email List](#email-list)
+- [Meeting Format](#meeting-format)
+- [Attending](#attending)
+- [Presenting](#presenting)
+- [Contact](#contact)
+- [Slack](#slack)
 
 
 ## About
