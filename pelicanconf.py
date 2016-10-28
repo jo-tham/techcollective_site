@@ -61,5 +61,5 @@ AUTHOR_FEED_RSS = None
 # Links for sidebar
 LINKS = (
     ('MAILING LIST', 'http://eepurl.com/cl7rMP'),
-    ('ARCHIVES', 'tech-collective.com/archives.html'),
+    ('ARCHIVES', 'http://tech-collective.com/archives.html'),
 )
