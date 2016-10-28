@@ -13,13 +13,13 @@ November 10
 
 It's going to be a great one with two new presenters. [Best put seatbelts on your ears!](https://www.youtube.com/watch?v=URvETMIGXwE).
 
-## Presentation 1: Putting the profit in non-profit? Accounting App for Non Profit Organizations - Chris O'Brien
+### Presentation 1: Putting the profit in non-profit? Accounting App for Non Profit Organizations - Chris O'Brien
 
 Chris is a bonafide tech entrepreneur with a background in product and management for hardware. 
 A recent project of his is an accounting application for non-profit organization. He will present the problem, 
 business case, roadmap, and progress on the application, among other things.
 
-## Presentation 2: Magic with Magento - Michael Thessel
+### Presentation 2: Magic with Magento - Michael Thessel
 
 Michael has a thriving business around the megento e-commerce platform. 
 He will be giving a high level introduction to how it works and some insight into the business
