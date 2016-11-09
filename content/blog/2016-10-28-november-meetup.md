@@ -13,7 +13,7 @@ November 10
 
 It's going to be a great one with two new presenters. [Best put seatbelts on your ears!](https://www.youtube.com/watch?v=URvETMIGXwE).
 
-## Presentation 1 
+## Presentation 1 - Postponed
 ### Putting the profit in non-profit? - Chris O'Brien
 
 Chris is a bonafide tech entrepreneur with a background in product and management for hardware. 
