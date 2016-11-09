@@ -6,7 +6,6 @@ about presenting!
 
 ### November 2016
 - Michael Thessel - Intro To Magento
-- Chris O'brien - Accounting App For Non Profits
 
 ### December 2016
 - Simon Lapointe - TBD
@@ -17,7 +16,7 @@ about presenting!
 - Ed Keeble - TBD
 
 ### February 2017
-- TBD - TBD
+- Chris O'brien - Accounting App For Non Profits
 - TBD - TBD
 
 ### March 2017
