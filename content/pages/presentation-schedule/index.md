@@ -10,13 +10,14 @@ about presenting!
 ### December 2016
 - Simon Lapointe - TBD
 - Lisa Kanary - Interactive data apps with Rshiny
+- Chris O'brien - Accounting App For Non Profits
 
 ### January 2017
 - Shane Maley - TBD
 - Ed Keeble - TBD
 
 ### February 2017
-- Chris O'brien - Accounting App For Non Profits
+- TBD - TBD
 - TBD - TBD
 
 ### March 2017
