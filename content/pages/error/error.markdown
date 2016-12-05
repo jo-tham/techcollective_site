@@ -8,5 +8,5 @@ The requested item could not be located.
 If you are looking for a post, try the
 [Archives](/archives.html).
 
-If you believe there is an error, contact
-[Jotham](mailto:jothamapaloo@gmail.com)
+If you believe there is an error, [contact
+an Admin](mailto:admin@tech-collective.com)
