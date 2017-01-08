@@ -1,5 +1,5 @@
 Title: Meetup: January 12
-Date: 2016-01-08 10:13
+Date: 2017-01-08 10:13
 Slug: january-2017
 Authors: Jotham Apaloo
 Email: events@tech-collective.com
