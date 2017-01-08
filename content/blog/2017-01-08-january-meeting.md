@@ -11,6 +11,11 @@ The meetup will take place at:
 January 12  
 (co)space  
 
+## Special Announcement:
+### Code Yukon - Dave Rogers
+
+Dave will announce the [Code Yukon](http://codeyukon.ca/) program - paid summer internships for Yukon Students sponsored by [Tech Yukon](http://techyukon.com/)
+
 ## Presentation 1: 
 ### Data Driven Apps with RShiny - Lisa Kanary
 
